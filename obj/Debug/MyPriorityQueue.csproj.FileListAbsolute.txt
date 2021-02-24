@@ -1,0 +1,6 @@
+C:\Users\mingu\Desktop\Code\PriorityQueue\MyPriorityQueue\bin\Debug\MyPriorityQueue.dll
+C:\Users\mingu\Desktop\Code\PriorityQueue\MyPriorityQueue\bin\Debug\MyPriorityQueue.pdb
+C:\Users\mingu\Desktop\Code\PriorityQueue\MyPriorityQueue\obj\Debug\MyPriorityQueue.csprojAssemblyReference.cache
+C:\Users\mingu\Desktop\Code\PriorityQueue\MyPriorityQueue\obj\Debug\MyPriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\mingu\Desktop\Code\PriorityQueue\MyPriorityQueue\obj\Debug\MyPriorityQueue.dll
+C:\Users\mingu\Desktop\Code\PriorityQueue\MyPriorityQueue\obj\Debug\MyPriorityQueue.pdb
